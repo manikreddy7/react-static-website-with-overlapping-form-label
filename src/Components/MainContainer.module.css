@@ -1,0 +1,182 @@
+.mainBanner{
+    width:80%;
+    height: 100%;
+    /* background-color: aqua; */
+    /* border: 1px solid black;  */
+    /* background-color: #fff; */
+    /* flex-direction: flex-end; */
+    color: brown;
+}
+
+
+.inputField {
+    display: flex;
+    flex-direction: column;
+    margin-right: 40px;
+    margin-bottom: 40px;
+    width: 45%;
+  }
+
+
+  .inputFieldAdd {
+    display: flex;
+    flex-direction: column;
+    margin-right: 0px; 
+    margin-bottom: 40px;
+    width: 92.7%;
+  }
+
+
+  .inputField label {
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+
+
+ .inputFieldAdd label {
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+ 
+  
+  .inputField label .labelStyle {
+    background: #FFF;
+    font-weight: bold;
+    padding: 0 10px;
+  }
+
+  
+  .inputFieldAdd label .labelStyleAdd {
+    background: #FFF;
+    font-weight: bold;
+    padding: 0 10px;
+  }
+  
+
+  .inputField input {
+    height: 30px;
+    margin-top: -10px;
+    z-index: -1;
+    padding: 10px 20px;
+    border-radius: 10px;
+  }
+
+
+
+
+  .inputFieldAdd input {
+    height: 80px;
+    margin-top: -10px;
+    z-index: -1;
+    padding: 10px 20px;
+    border-radius: 10px;
+  }
+
+
+  .mainBannerFromWrapperAdd{
+    width:100%;
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    /* border: 1px solid red; */
+    flex-wrap: wrap;
+    color: brown;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+  .mainBannerFromWrapper{
+    width:100%;
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    /* border: 1px solid red; */
+    flex-wrap: wrap;
+    color: brown;
+  }
+.mainBannerLocationMap{
+  width:92.7%;
+  height:300px;
+  background-color: antiquewhite;
+  margin-bottom: 20px;
+  
+}
+
+  .mainBannerFromBottomWrapper{
+    width:100%;
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    /* border: 1px solid blue; */
+    flex-wrap: wrap;
+    color: brown;
+
+  }
+  .mainBannerFromBottomWrapper .inputField {
+    display: flex;
+    flex-direction: column;
+    margin-right: 20px;
+    width: 30%;
+  }  
+  .mainBannerAddMerchantBtn{
+    display: flex;
+    justify-content: center;
+    padding: 20px;   
+  }
+  .AddMerchantBtn{
+ color:#fff;
+ background-color: brown;
+  }
+  .bottomModulesSubjectsWrapper{
+    display:flex;
+    justify-content: space-around;
+  
+    margin-right: 111px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+  }
+  .mainBannerFromAddressWrapper{
+    width:100%;
+  }
+  .bottomModulesSubjects img{
+    width: 80px;
+    height: 80px;
+    padding: 10px 30px 10px 30px;
+
+  }
+  .bottomModulesSubjects{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 180px;
+    height: 140px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 3px 10px;
+
+  }
+  .bottomModulesSubjects p{
+    margin:0px;
+    align-content: center;
+    font-weight: 500;
+
+  }
+  .AddMerchantBtn{
+    border: none;
+    border-radius: 7px;
+    padding: 14px 180px;
+    font-weight: 400;
+  }
+
+
+  

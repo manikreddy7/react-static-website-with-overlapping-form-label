@@ -1,0 +1,17 @@
+.sideBar{
+
+    width:20%;
+    height: 50vh;
+    color: brown;
+    /* border: 1px solid black;  */
+    background-color: #fff;
+    font-weight: medium;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+.sidebarContentTop{
+
+}
